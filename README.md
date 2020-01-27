@@ -1,5 +1,5 @@
 # ExploreYummyFoods
-Explore Yummy Foods As Youtuber or Uploader Suggest!
+Explore Yummy Foods As Youtuber or Uploader from Bilibili Suggest!
 
 ## 盗月社食遇记
 
